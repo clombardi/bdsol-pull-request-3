@@ -17,3 +17,7 @@ function fourTimes(n) {
 function plusTen(n) {
     return n + 10
 }
+
+function plusEleven(n) {
+    return n + 11
+}
