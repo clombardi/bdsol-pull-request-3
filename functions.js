@@ -9,3 +9,7 @@ function threeTimes(n) {
 function fourTimes(n) {
     return n * 4
 }
+
+function fiveTimes(n) {
+    return n * 5
+}
