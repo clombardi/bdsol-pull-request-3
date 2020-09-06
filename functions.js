@@ -9,3 +9,7 @@ function plusOne(n) {
 function fourTimes(n) {
     return n * 4
 }
+
+function plusTen(n) {
+    return n + 10
+}
